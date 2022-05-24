@@ -4,7 +4,7 @@
 
 ## Hi there 👋, I'm Yogesh Kathayat.
 
-### A passionate software engineer and a full stack developer.
+### A passionate Software Engineer.
 
 - 👨‍💻 Currently working as a senior software engineer in a UAE based startup [Labaiik.com](https://labaiik.com/)
 - 📚 Currently learning Golang.
