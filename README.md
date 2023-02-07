@@ -4,9 +4,9 @@
 
 ## Hi there 👋, I'm Yogesh Kathayat.
 
-### A passionate Software Engineer.
+### A Software Engineer passionate about building scalable systems.
 
-- 👨‍💻 Currently working as a senior software engineer in a UAE based startup [Labaiik.com](https://labaiik.com/)
+- 👨‍💻 Currently working with [Mumzworld.com](https://mumzworld.com/) as a Senior Software Engineer based in Dubai.
 - 📚 Currently learning Golang.
 - 👯Looking to collaborate on open-source projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
