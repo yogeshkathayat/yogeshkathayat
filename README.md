@@ -7,8 +7,8 @@
 ### A Software Engineer passionate about building scalable systems.
 
 - 👨‍💻 Currently working with [Mumzworld.com](https://mumzworld.com/) as a Senior Software Engineer based in Dubai.
-- 📚 Currently learning Golang.
-- 👯Looking to collaborate on open-source projects.
+- 📚 Learning Golang.
+- 👯 Looking to collaborate on open-source projects.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 📫 Reach me at kathayat.yogesh@gmail.com
 
