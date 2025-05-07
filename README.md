@@ -1,16 +1,12 @@
-<h1 align="center" style="display:none;"></h1>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+# Hi there 👋, I'm Yogesh Kathayat.
 
-## Hi there 👋, I'm Yogesh Kathayat.
-
-### 🚀 Engineering Manager @ [Mumzworld.com](https://www.mumzworld.com)  
+🚀 Engineering Manager @ [Mumzworld.com](https://www.mumzworld.com)  
 📍 Based in Dubai 🇦🇪, originally from India 🇮🇳
 
 
----
 
-I’m an engineering manager who loves building scalable systems, mentoring engineers, and solving real-world problems with clean code and smart architecture. I bring both hands-on coding experience and team leadership to fast-paced environments.
+I love building scalable systems, mentoring engineers, and solving real-world problems with clean code and smart architecture. I bring both hands-on coding experience and team leadership to fast-paced environments.
 
 ---
 
