@@ -26,7 +26,7 @@ When I’m not solving tech challenges, I’m behind a camera capturing wildlife
 
 ### 💬 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/ykathayat/)  
-- 🧑‍💻 [GitHub](https://github.com/ykathayat)
+- 🧑‍💻 [GitHub](https://github.com/yogeshkathayat)
 - ✉️ Email: kathayat.yogesh@gmail.com
 - ✉️ Open to collaborations, tech chats, and side projects!
 
