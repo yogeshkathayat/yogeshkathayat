@@ -4,25 +4,36 @@
 
 ## Hi there 👋, I'm Yogesh Kathayat.
 
-### A Software Engineer passionate about building scalable systems.
+### 🚀 Engineering Manager @ [Mumzworld.com](https://www.mumzworld.com)  
+📍 Based in Dubai 🇦🇪, originally from India 🇮🇳
 
-- 👨‍💻 Currently working with [Mumzworld.com](https://mumzworld.com/) as a Senior Software Engineer based in Dubai.
-- 📚 Currently learning Golang.
-- 👯 Looking to collaborate on open-source projects.
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- 📫 Reach me at kathayat.yogesh@gmail.com
 
 ---
 
-### Connect with me 📝
-
-<p align="left">
-<a href="https://twitter.com/yogiskathayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" alt="yogiskathayat" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ykathayat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="ykathayat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7774308/yogesh-kathayat" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" alt="yogesh-kathayat" height="30" width="40" /></a>
-</p>
+I’m an engineering manager who loves building scalable systems, mentoring engineers, and solving real-world problems with clean code and smart architecture. I bring both hands-on coding experience and team leadership to fast-paced environments.
 
 ---
+
+### 🛠️ What I am Working On
+- Building data pipeline framework
+- Microservices & distributed systems
+- Scalable backend architecture
+- Engineering culture & team growth 
+
+---
+
+### ✨ Outside of Work
+When I’m not solving tech challenges, I’m behind a camera capturing wildlife and landscapes.  
+📸 Follow my photography journey on Instagram → [Yogii.jpeg](https://www.instagram.com/yogii.jpeg)
+
+---
+
+### 💬 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/ykathayat/)  
+- 🧑‍💻 [GitHub](https://github.com/ykathayat)
+- ✉️ Email: kathayat.yogesh@gmail.com
+- ✉️ Open to collaborations, tech chats, and side projects!
+
 
 ### Languages and Tools 🛠
 
@@ -49,3 +60,6 @@
 
 <br/>
 
+---
+
+> “Keep it simple, make it reliable, scale it when it matters.”
